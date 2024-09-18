@@ -13,7 +13,7 @@ authors:
   - given-names: Magnus
     family-names: Sesodia
 repository-code: >-
-  https://github.com/magnus-sesodia/2D_Bose_gas_quantum_vortex_detection
+  https://github.com/magnus-sesodia/2d_vortex_detection
 keywords:
   - machine learning
   - convolutional neural network
