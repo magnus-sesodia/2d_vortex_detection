@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  CNN-Based Vortex Detection in Atomic 2D Bose Gases in the
+  Presence of a Phononic Background
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Magnus
+    family-names: Sesodia
+repository-code: >-
+  https://github.com/magnus-sesodia/2D_Bose_gas_quantum_vortex_detection
+keywords:
+  - machine learning
+  - convolutional neural network
+  - image analysis
+  - object detection
+  - vortices
+  - superfluidity
+  - Bose-Einstein condensate
+  - phonons
+license: MIT
+date-released: '2024-09-18'
