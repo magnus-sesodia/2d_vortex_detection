@@ -1,6 +1,6 @@
 ### **Overview**
 
-This repository contains the models and code used for the paper: Authors, 2024 - "CNN-Based Vortex Detection in Atomic 2D Bose Gases in the Presence of a Phononic Background"
+This repository contains the models and code used for the paper: [Sesodia et al., 2024 "CNN-Based Vortex Detection in Atomic 2D Bose Gases in the Presence of a Phononic Background"](https://arxiv.org/abs/2410.13829)
 
 The code is provided in the form of three [Jupyter Notebooks](https://jupyter.org/) written in Python and using the machine-learning libraries [Tensorflow](https://www.tensorflow.org/) & [Keras](https://keras.io/)
 
@@ -16,4 +16,4 @@ The trained model used in the paper can be found in **`models/`**
 
 ### **Questions**
 
-If you have any questions, feel free to open an issue or [email me](mailto:magnus.sesodia@outlook.com)
+If you have any questions, feel free to open an issue or [email me](mailto:magnus.sesodia@physics.ox.ac.uk)
